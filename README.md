@@ -1,0 +1,1 @@
+Classic Django project-learning.
